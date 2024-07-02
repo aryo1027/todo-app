@@ -18,8 +18,16 @@ Adapun Skenario Kebutuhan Pengguna sebagai berikut:
 
 
 Snapshot:
-![Screenshot](https://github.com/aryo1027/todo-app/assets/71845244/26bc98b4-280c-4e09-bc19-bfcea11e3681){:width="400px"}
-![Screenshot](https://github.com/aryo1027/todo-app/assets/71845244/8ba23cc9-fea2-4043-bb5f-df05e32a53b0){:width="400px"}
+
+![Screenshot_1719852008](https://github.com/aryo1027/todo-app/assets/71845244/c3b78bd2-eae6-472f-be68-78e297863dbe)
+
+![Screenshot_1719852249](https://github.com/aryo1027/todo-app/assets/71845244/1f08999e-e0b3-4f60-bc69-7238da6ced89)
+
+<img src="https://github.com/aryo1027/todo-app/assets/71845244/26bc98b4-280c-4e09-bc19-bfcea11e3681" alt="Screenshot" width="200"/>
+
+
+
+
 
 
 
